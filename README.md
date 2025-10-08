@@ -14,4 +14,4 @@ The player controls a basket at the bottom of the screen, moving horizontally to
 
 ## ▶️ Play the Game!
 You can play the game in your browser on its itch.io page:
-****
+**https://shanmukha.itch.io/fruit-frenzy**
